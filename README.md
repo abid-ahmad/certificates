@@ -1,6 +1,6 @@
 # Abid Ahmad - Certificates
 
-This repository contains my completion certificates from Wayne State University Engineering Workshops (2026).
+This repository contains my completion certificates from **Wayne State University Engineering Workshops** held from **May 4, 2026 to June 4, 2026**.
 
 **All certificates are combined into one PDF file.**
 
