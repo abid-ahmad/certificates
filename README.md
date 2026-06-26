@@ -1,17 +1,6 @@
-# Abid Ahmad - Certificates
-
-This repository contains my completion certificates from Wayne State University Engineering Workshops (2026).
-
-**All certificates are combined into one PDF file:** `Certificates.pdf`
-
-### Workshops Completed:
-- PCB Design for Performance and Manufacturability
-- Semiconductor Chip Design and Verification
-- Power Converter for Electric Vehicle and AI
-
----
-
-**Abid Ahmad**  
-B.S. Electrical & Computer Engineering  
-Wayne State University  
-Detroit, MI
+% ==================== TECHNICAL TRAINING ====================
+\section{Technical Training \& Workshops}
+\small{
+Wayne State University, 2026 — PCB Design, Semiconductor Chip Design, EV Power Converters, Semiconductors for Automotives \\
+\small{Certificates: \href{https://github.com/abid-ahmad/certificates/blob/main/Certificates.pdf}{\faGithub{} \textcolor{Accent}{View Certificates.pdf}}}
+}
